@@ -1,0 +1,8 @@
+https://github.com/Kubeus14/travel-agency-fe
+https://github.com/Kubeus14/travel-agency-fe.git
+
+Projekt należy sklonować, otworzyć w IntelijjIdea. Następnie należy go zbudować za pomocą gradlew build.
+Następnie można uruchomić aplikację "TravelAgencyFrontEndApplication". Uruchomiona aplikacja będzie dostępna
+pod adresem http://localhost:8080/. Jest zrobiona wstępna warstwa widoku. Wiele rzeczy tam nie jest jeszcze dopracowane.
+Warstwa widoku przedstawia dostępne podróże, pole do filtracji podróży w zależności od ich typu lub numeru id podróży,
+jak i posiada opcję "Koszyka", gdzie klient po wpisaniu odpowiednich danych realizuje zamówienie.
